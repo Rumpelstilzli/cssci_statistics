@@ -7,4 +7,4 @@ Still more than early stage of the project :).
 
 ## ✨ Try it in your browser ✨
 
-➡️ ** https://rumpelstilzli.github.io/cssci_statistics/lab/index.html**
+➡️ ** https://rumpelstilzli.github.io/cssci_statistics/lab/index.html?path=/basics/task-1.ipynb **
